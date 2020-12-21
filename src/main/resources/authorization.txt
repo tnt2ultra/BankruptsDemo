@@ -1,0 +1,1 @@
+https://demowebuser:Ax!761BN@services.fedresurs.ru/Bankruptcy/MessageServiceDemo/WebService.svc?singleWsdl
